@@ -1,16 +1,10 @@
 # flutter_webhost
 
-A new Flutter project.
+Belajar membuat web portofolio dengan flutter dan di host dengan firebase
 
-## Getting Started
+https://randyprimaputra.web.app/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Version Apps
+- Dart     : 2.18.5
+- Flutter  : 3.3.9
+- Firebase : 11.19.0

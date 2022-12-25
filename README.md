@@ -1,6 +1,6 @@
 # flutter_webhost
 
-Membuat web portofolio dengan flutter dan host firebase
+Belajar membuat web portofolio dengan flutter dan di host dengan firebase
 
 https://randyprimaputra.web.app/
 

@@ -36,7 +36,7 @@ class _RootPageState extends State<RootPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Web Portofolio is Stil in Proggress..'),
+        title: const Text('Web Portofolio is Still in Progress..'),
       ),
       body: pages[currentPage],
       floatingActionButton: FloatingActionButton(
@@ -50,10 +50,10 @@ class _RootPageState extends State<RootPage> {
           NavigationDestination(icon: Icon(Icons.home), label: 'Home'),
           NavigationDestination(icon: Icon(Icons.person), label: 'Profile'),
         ],
-        onDestinationSelected: (int index){
+        onDestinationSelected: (int index) {
           setState(() {
-                currentPage = index;
-          });      
+            currentPage = index;
+          });
         },
         selectedIndex: currentPage,
       ),
